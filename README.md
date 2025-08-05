@@ -212,6 +212,11 @@ p.note { display: none; }
 <h2><span class="yellow">それなりの運動施設です</span></h2>
 <a href="20250805_020.JPG" target="_blank"><img src="20250805_020.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250805_021.JPG" target="_blank"><img src="20250805_021.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">野鳥が鳴いていると思ったら、カゴの鳥たちでした</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vk3Icr061D4?si=KSvnteEZDTxGQOzG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
     
 <h2><span class="yellow">タイの一般的な移動風景、このまま高速道路を走ります</span></h2>
 <a href="20250805_022.JPG" target="_blank"><img src="20250805_022.JPG" alt="サンプル画像" class="responsive-media"></a>
